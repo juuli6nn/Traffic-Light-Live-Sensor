@@ -1,8 +1,8 @@
-const cycleLength = 121;  // total time (16 green + 105 red)
+const cycleLength = 122;  // total time (16 green + 106 red)
 const greenDuration = 16; // seconds
 
 // Your recorded start time: October 22, 2025 at 15:22:59 (+8 GMT)
-const startTime = new Date("2025-10-22T15:22:59+08:00").getTime();
+const startTime = new Date("2025-10-25T18:57:03+08:00").getTime();
 
 const light = document.getElementById("light");
 const status = document.getElementById("status");
@@ -36,3 +36,4 @@ setInterval(() => {
   progress.style.width = progressWidth + "%";
   progress.style.backgroundColor = color;
 }, 1000);
+
