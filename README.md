@@ -29,6 +29,8 @@ This system is designed based on the actual stoplight located at this intersecti
   <img src="Site Photo.png" alt="Street View of Traffic Light" width="48%" />
 </p>
 
+<hr>
+
 <p align="center">
   <i>Figure 1: Map location and actual street view of the monitored intersection</i>
 </p>
