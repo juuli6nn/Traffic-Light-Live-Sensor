@@ -22,8 +22,7 @@ Legarda St & Figueras St, Sampaloc, Manila, 1008 Metro Manila
 This system is designed based on the actual stoplight located at this intersection.
 </p>
 
-<h3>📸 Location Photos</h3>
-<hr>
+<h2>📸 Location Photos</h2>
 
 <p align="center">
   <img src="Map Location.png" alt="Map View of Legarda Intersection" width="48%" />
@@ -37,7 +36,7 @@ This system is designed based on the actual stoplight located at this intersecti
 <hr>
 
 <h2>🌐 Live Demo</h2>
-<p>
+<p align="center">
 <a href="https://juuli6nn.github.io/Traffic-Light-Live-Sensor/" target="_blank">
 🔗 View Live Project
 </a>
