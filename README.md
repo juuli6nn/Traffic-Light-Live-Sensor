@@ -23,6 +23,7 @@ This system is designed based on the actual stoplight located at this intersecti
 </p>
 
 <h3>📸 Location Photos</h3>
+<hr>
 
 <p align="center">
   <img src="Map Location.png" alt="Map View of Legarda Intersection" width="48%" />
