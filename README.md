@@ -7,13 +7,30 @@ A web-based traffic light monitoring system that displays real-time traffic ligh
 <hr>
 
 <h2>📍 Location</h2>
-<p>
+<p align="center">
 <b>Intersection:</b><br>
-Legarda St, Sampaloc, Manila, 1008 Metro Manila
+Legarda St & Figueras St, Sampaloc, Manila, 1008 Metro Manila
+</p>
+
+<p align="center">
+  <a href="https://maps.app.goo.gl/gSzLRfovJceGxTAw5" target="_blank">
+    <img src="https://img.shields.io/badge/🗺️-Open%20in%20Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps">
+  </a>
 </p>
 
 <p>
 This system is designed based on the actual stoplight located at this intersection.
+</p>
+
+<h3>📸 Location Photos</h3>
+
+<p align="center">
+  <img src="images/map.png" alt="Map View of Legarda Intersection" width="48%" />
+  <img src="images/streetview.jpg" alt="Street View of Traffic Light" width="48%" />
+</p>
+
+<p align="center">
+  <i>Figure 1: Map location and actual street view of the monitored intersection</i>
 </p>
 
 <hr>
@@ -53,6 +70,10 @@ Traffic-Light-Live-Sensor/
 │── index.html     # Main UI
 │── style.css      # Design and layout
 │── script.js      # Traffic light logic
+│── images/        # Location photos
+│   ├── map.png
+│   └── streetview.jpg
+│── README.md      # Project documentation
 </pre>
 
 <hr>
@@ -89,7 +110,31 @@ The system simulates a traffic light cycle using JavaScript timers. Each light p
 
 <hr>
 
-<h2>📸 Reference Location</h2>
+<h2>📍 Google Maps Location</h2>
+
+<iframe 
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3860.7442944676747!2d120.996!3d14.604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397b07c08f6b12d%3A0x6c4d4f4e4f4e4f4e!2sLegarda%20St%20%26%20Figueras%20St%2C%20Manila!5e0!3m2!1sen!2sph!4v1234567890" 
+  width="100%" 
+  height="450" 
+  style="border:0; border-radius: 8px;" 
+  allowfullscreen="" 
+  loading="lazy" 
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+
+<p align="center">
+  <i>📍 Interactive map showing the exact location of the traffic light sensor</i>
+</p>
+
+<hr>
+
+<h2>📄 License</h2>
 <p>
-The system is based on an actual intersection in Legarda, where traffic flow is busy and timing awareness is important for pedestrians.
+This project is open-source and available for educational purposes.
+</p>
+
+<hr>
+
+<p align="center">
+  <b>Made with ❤️ for safer pedestrian crossings in Manila</b>
 </p>
