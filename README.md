@@ -1,4 +1,4 @@
-<h1 align="center">🚦 Traffic Light Live Sensor</h1>
+<h1 align="center">Traffic Light Live Sensor</h1>
 
 <p align="center">
 A web-based traffic light monitoring system that displays real-time traffic light status and countdown timers for a specific intersection in <b>Legarda, Manila</b>.
@@ -6,7 +6,7 @@ A web-based traffic light monitoring system that displays real-time traffic ligh
 
 <hr>
 
-<h2>📍 Location</h2>
+<h2>Location</h2>
 <p align="center">
 <b>Intersection:</b><br>
 Legarda St & Figueras St, Sampaloc, Manila, 1008 Metro Manila
@@ -22,7 +22,7 @@ Legarda St & Figueras St, Sampaloc, Manila, 1008 Metro Manila
 This system is designed based on the actual stoplight located at this intersection.
 </p>
 
-<h2>📸 Location Photos</h2>
+<h2>Location Photos</h2>
 
 <p align="center">
   <img src="Map Location.png" alt="Map View of Legarda Intersection" width="48%" />
@@ -37,7 +37,7 @@ This system is designed based on the actual stoplight located at this intersecti
 
 <hr>
 
-<h2>🌐 Live Demo</h2>
+<h2>Live Demo</h2>
 <p align="center">
 <a href="https://juuli6nn.github.io/Traffic-Light-Live-Sensor/" target="_blank">
 🔗 View Live Project
@@ -46,18 +46,18 @@ This system is designed based on the actual stoplight located at this intersecti
 
 <hr>
 
-<h2>📌 Features</h2>
+<h2>Features</h2>
 <ul>
-  <li>⏱️ Real-time traffic light countdown (Red, Yellow, Green)</li>
-  <li>🚦 Visual simulation of traffic light states</li>
-  <li>📱 Simple and responsive web interface</li>
-  <li>🧠 Helps pedestrians decide when to cross safely</li>
-  <li>⚡ Lightweight (HTML, CSS, JavaScript only)</li>
+  <li>Real-time traffic light countdown (Red, Yellow, Green)</li>
+  <li>Visual simulation of traffic light states</li>
+  <li>Simple and responsive web interface</li>
+  <li>Helps pedestrians decide when to cross safely</li>
+  <li>Lightweight (HTML, CSS, JavaScript only)</li>
 </ul>
 
 <hr>
 
-<h2>🛠️ Tech Stack</h2>
+<h2>Tech Stack</h2>
 <ul>
   <li><b>HTML</b> – Structure of the webpage</li>
   <li><b>CSS</b> – Styling and layout</li>
@@ -66,27 +66,15 @@ This system is designed based on the actual stoplight located at this intersecti
 
 <hr>
 
-<h2>📂 Project Structure</h2>
-<pre>
-Traffic-Light-Live-Sensor/
-│── index.html           # Main UI
-│── style.css            # Design and layout
-│── script.js            # Traffic light logic
-│── Map Location.png     # Map screenshot
-│── Site Photo.png       # Street view photo
-│── README.md            # Project documentation
-</pre>
 
-<hr>
-
-<h2>⚙️ How It Works</h2>
+<h2>How It Works</h2>
 <p>
 The system simulates a traffic light cycle using JavaScript timers. Each light phase (green, yellow, red) runs for a set duration and updates dynamically on the screen.
 </p>
 
 <hr>
 
-<h2>⚠️ Known Issues</h2>
+<h2>Known Issues</h2>
 <ul>
   <li>
     <b>Timer Inaccuracy</b><br>
@@ -100,18 +88,16 @@ The system simulates a traffic light cycle using JavaScript timers. Each light p
 
 <hr>
 
-<h2>🚀 Future Improvements</h2>
+<h2>Future Improvements</h2>
 <ul>
-  <li>🔌 Integrate real-time sensor or API data</li>
-  <li>📡 Use IoT devices for live signal tracking</li>
-  <li>🧠 Add AI prediction for traffic flow</li>
-  <li>📍 Expand to multiple intersections</li>
-  <li>📲 Improve UI/UX for mobile users</li>
+  <li>Integrate real-time sensor or API data</li>
+  <li>Expand to multiple intersections</li>
+  <li>Improve UI/UX</li>
 </ul>
 
 <hr>
 
-<h2>📄 License</h2>
+<h2>License</h2>
 <p>
 This project is open-source and available for educational purposes.
 </p>
